@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KCAD Cleaners - Vent Cleaning News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest vent cleaning news and tips from KCAD Cleaners in Overland Park, Kansas.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 21:10:40 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>Kcadcleaners@gmail.com (KCAD Cleaners)</managingEditor>
+    <webMaster>Kcadcleaners@gmail.com (KCAD Cleaners)</webMaster>
+    
+  </channel>
+</rss>
